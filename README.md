@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -14,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
