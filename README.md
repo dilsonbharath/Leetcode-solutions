@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0171-excel-sheet-column-number](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0394-decode-string) |
@@ -32,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0394-decode-string) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
