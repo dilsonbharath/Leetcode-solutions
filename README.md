@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0394-decode-string) |
 ## Math
 |  |
 | ------- |
@@ -23,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0175-combine-two-tables) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0394-decode-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
