@@ -3,7 +3,7 @@ class Solution:
         nums.sort()
         a = []
         n=len(nums)
-        for i in range(n):
+        for i in range(n-2):
             lo , hi = i+1 , n-1
             if nums[i]>0:
                 break
