@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Array
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Database
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
