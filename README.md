@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2245-destroying-asteroids](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2245-destroying-asteroids) |
 ## Database
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [2245-destroying-asteroids](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2245-destroying-asteroids) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0268-missing-number) |
+## Greedy
+|  |
+| ------- |
+| [2245-destroying-asteroids](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2245-destroying-asteroids) |
 <!---LeetCode Topics End-->
