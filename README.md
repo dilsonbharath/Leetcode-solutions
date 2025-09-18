@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2245-destroying-asteroids](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2245-destroying-asteroids) |
+| [2350-find-closest-number-to-zero](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2350-find-closest-number-to-zero) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 ## Database
 |  |
