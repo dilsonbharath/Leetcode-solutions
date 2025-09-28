@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
