@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0394-decode-string) |
 | [0782-jewels-and-stones](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [1894-merge-strings-alternately](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1894-merge-strings-alternately) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3312-number-of-changing-keys](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3312-number-of-changing-keys) |
 | [3396-valid-word](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3396-valid-word) |
 | [3811-reverse-degree-of-a-string](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3811-reverse-degree-of-a-string) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2245-destroying-asteroids](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2245-destroying-asteroids) |
 | [2350-find-closest-number-to-zero](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2350-find-closest-number-to-zero) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Database
 |  |
