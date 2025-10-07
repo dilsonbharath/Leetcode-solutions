@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-number-of-changing-keys](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3312-number-of-changing-keys) |
 | [3396-valid-word](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3396-valid-word) |
 | [3811-reverse-degree-of-a-string](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3811-reverse-degree-of-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0383-ransom-note) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
 | ------- |
