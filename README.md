@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [4008-restore-finishing-order](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/4008-restore-finishing-order) |
+| [4058-compute-alternating-sum](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/4058-compute-alternating-sum) |
 ## Database
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3811-reverse-degree-of-a-string) |
+| [4058-compute-alternating-sum](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/4058-compute-alternating-sum) |
 ## Binary Search
 |  |
 | ------- |
