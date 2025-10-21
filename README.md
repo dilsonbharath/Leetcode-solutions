@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1603-running-sum-of-1d-array](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -179,5 +180,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [1603-running-sum-of-1d-array](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 <!---LeetCode Topics End-->
