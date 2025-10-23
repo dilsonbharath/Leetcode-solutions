@@ -6,8 +6,6 @@ class Solution:
             for i in range(len(temp)-1):
                 x = (int(temp[i])+int(temp[i+1]))%10
                 new += str(x)
-            if new==new[::-1]:
-                return True
             s = new
 
-        return False
+        return s[0]==s[1]
