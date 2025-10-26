@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [1603-running-sum-of-1d-array](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0394-decode-string) |
+| [0682-baseball-game](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0682-baseball-game) |
 ## Recursion
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0682-baseball-game](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3811-reverse-degree-of-a-string) |
 | [4058-compute-alternating-sum](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/4058-compute-alternating-sum) |
