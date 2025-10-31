@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3830-find-closest-person) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2631-sort-the-students-by-their-kth-score](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [4008-restore-finishing-order](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/4008-restore-finishing-order) |
 | [4058-compute-alternating-sum](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/4058-compute-alternating-sum) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [3412-permutation-difference-between-two-strings](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3412-permutation-difference-between-two-strings) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4008-restore-finishing-order](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/4008-restore-finishing-order) |
 ## Sliding Window
