@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0171-excel-sheet-column-number](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0383-ransom-note) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0057-insert-interval) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0169-majority-element) |
