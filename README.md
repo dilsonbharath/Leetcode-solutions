@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0057-insert-interval) |
@@ -248,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
