@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0135-candy) |
 | [1448-maximum-69-number](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [2245-destroying-asteroids](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2245-destroying-asteroids) |
 ## Enumeration
