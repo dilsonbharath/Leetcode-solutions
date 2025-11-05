@@ -7,13 +7,17 @@ class Solution:
 
         stack = []
 
-        for i in range(len(nums2)-1):
+        for i in range(len(nums2)):
 
-            for j in range(i+1,len(nums2)):
+            curr = nums2[i]
 
-                if nums2[i] in nums1 and nums2[i]<nums2[j]:
+            while stack and stack[-1]<curr:
 
-                    res[di[nums2[i]]] = nums2[j]
-                    break
-        
+                val = stack.pop()
+                idx = di[val]
+                res[idx] = curr
+
+            if curr in nums1:
+                stack.append(curr)
+            
         return res
