@@ -8,9 +8,9 @@ class Solution:
 
             while stack and stack[-1][1]<temperatures[i]:
                 
-                ans = (i - stack[-1][0])
-                res[stack[-1][0]] = ans
-                stack.pop()
+                j,k = stack.pop()
+                res[j] = (i - j)
+                
 
             stack.append([i,t])
 
