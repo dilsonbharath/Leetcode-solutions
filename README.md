@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0268-missing-number) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Greedy
 |  |
 | ------- |
