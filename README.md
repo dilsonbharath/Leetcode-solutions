@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2396-strictly-palindromic-number](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2288-count-operations-to-obtain-zero) |
+| [2396-strictly-palindromic-number](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -319,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
