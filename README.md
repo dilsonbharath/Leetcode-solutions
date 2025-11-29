@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2396-strictly-palindromic-number](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [4008-restore-finishing-order](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/4008-restore-finishing-order) |
