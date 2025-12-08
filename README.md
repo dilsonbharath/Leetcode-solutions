@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2631-sort-the-students-by-their-kth-score](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3074-apple-redistribution-into-boxes](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2245-destroying-asteroids](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2245-destroying-asteroids) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [3074-apple-redistribution-into-boxes](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1303-minimum-moves-to-reach-target-score](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1448-maximum-69-number](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [2245-destroying-asteroids](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2245-destroying-asteroids) |
+| [3074-apple-redistribution-into-boxes](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 ## Enumeration
 |  |
 | ------- |
