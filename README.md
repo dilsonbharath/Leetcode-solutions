@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0051-n-queens) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0051-n-queens) |
 ## Monotonic Stack
 |  |
