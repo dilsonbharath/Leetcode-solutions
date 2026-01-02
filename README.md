@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2350-find-closest-number-to-zero](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2350-find-closest-number-to-zero) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
+| [2951-find-the-peaks](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2951-find-the-peaks) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3074-apple-redistribution-into-boxes](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1925-count-square-sum-triples) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
+| [2951-find-the-peaks](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2951-find-the-peaks) |
 ## Prefix Sum
 |  |
 | ------- |
