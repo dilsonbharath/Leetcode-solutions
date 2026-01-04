@@ -1,3 +1,4 @@
+from collections import deque
 class Solution:
     def validPath(self, n: int, edges: List[List[int]], source: int, destination: int) -> bool:
 
@@ -15,13 +16,15 @@ class Solution:
             graph[i].append(j)
             graph[j].append(i)
 
-        q = [source]
+
+        q = deque()
+        q.append(source)
         sett = set()
         sett.add(source)
 
         while q:
 
-            curr = q.pop(0)
+            curr = q.popleft()
             for child in graph[curr]:
 
                 if child == destination:
