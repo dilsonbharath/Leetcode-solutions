@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -401,10 +402,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Union Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
