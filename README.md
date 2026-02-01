@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0682-baseball-game](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2288-count-operations-to-obtain-zero) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
