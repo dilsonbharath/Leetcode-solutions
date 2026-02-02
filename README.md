@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1944-truncate-sentence](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1944-truncate-sentence) |
 | [2073-time-needed-to-buy-tickets](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2245-destroying-asteroids](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2245-destroying-asteroids) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0135-candy) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1448-maximum-69-number](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1448-maximum-69-number) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2245-destroying-asteroids](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2245-destroying-asteroids) |
 | [3074-apple-redistribution-into-boxes](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 ## Enumeration
