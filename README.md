@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0268-missing-number) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
