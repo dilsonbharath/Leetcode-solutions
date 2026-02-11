@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0171-excel-sheet-column-number](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
+| [0257-binary-tree-paths](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0392-is-subsequence) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0077-combinations) |
 | [0113-path-sum-ii](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -470,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
