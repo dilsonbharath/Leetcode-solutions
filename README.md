@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1944-truncate-sentence) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2325-decode-the-message](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2325-decode-the-message) |
+| [2390-removing-stars-from-a-string](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3110-score-of-a-string](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3110-score-of-a-string) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2390-removing-stars-from-a-string](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2288-count-operations-to-obtain-zero) |
+| [2390-removing-stars-from-a-string](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3379-transformed-array](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3379-transformed-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3811-reverse-degree-of-a-string) |
