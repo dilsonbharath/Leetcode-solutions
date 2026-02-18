@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0844-backspace-string-compare](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0394-decode-string) |
 | [0782-jewels-and-stones](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0782-jewels-and-stones) |
+| [0844-backspace-string-compare](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1894-merge-strings-alternately) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2390-removing-stars-from-a-string](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [2073-time-needed-to-buy-tickets](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
