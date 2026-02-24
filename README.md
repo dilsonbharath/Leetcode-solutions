@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2325-decode-the-message](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2325-decode-the-message) |
 | [2390-removing-stars-from-a-string](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2418-sort-the-people) |
+| [2788-split-strings-by-separator](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2788-split-strings-by-separator) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3110-score-of-a-string](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3110-score-of-a-string) |
 | [3312-number-of-changing-keys](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3312-number-of-changing-keys) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
+| [2788-split-strings-by-separator](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2788-split-strings-by-separator) |
 | [2951-find-the-peaks](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2951-find-the-peaks) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3074-apple-redistribution-into-boxes](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
