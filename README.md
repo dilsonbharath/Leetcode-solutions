@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3731-find-missing-elements](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [4008-restore-finishing-order](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/4008-restore-finishing-order) |
 | [4058-compute-alternating-sum](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/4058-compute-alternating-sum) |
 ## Database
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3412-permutation-difference-between-two-strings](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3412-permutation-difference-between-two-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3731-find-missing-elements](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4008-restore-finishing-order](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/4008-restore-finishing-order) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3074-apple-redistribution-into-boxes](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3731-find-missing-elements](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
