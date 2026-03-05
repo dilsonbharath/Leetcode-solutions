@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1894-merge-strings-alternately](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1894-merge-strings-alternately) |
