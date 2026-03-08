@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1944-truncate-sentence](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1944-truncate-sentence) |
+| [1980-find-unique-binary-string](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2325-decode-the-message](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2325-decode-the-message) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1944-truncate-sentence](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1944-truncate-sentence) |
+| [1980-find-unique-binary-string](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1980-find-unique-binary-string](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2325-decode-the-message](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2325-decode-the-message) |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0077-combinations) |
 | [0113-path-sum-ii](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [1980-find-unique-binary-string](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 ## Monotonic Stack
 |  |
 | ------- |
