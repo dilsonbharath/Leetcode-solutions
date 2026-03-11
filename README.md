@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0268-missing-number) |
+| [1009-complement-of-base-10-integer](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Greedy
 |  |
