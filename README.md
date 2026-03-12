@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0392-is-subsequence) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2631-sort-the-students-by-their-kth-score) |
