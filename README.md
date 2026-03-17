@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1446-consecutive-characters](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1446-consecutive-characters) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
