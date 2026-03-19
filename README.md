@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1303-minimum-moves-to-reach-target-score](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1448-maximum-69-number](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1641-count-sorted-vowel-strings](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1641-count-sorted-vowel-strings) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1925-count-square-sum-triples) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0799-champagne-tower](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0799-champagne-tower) |
+| [1641-count-sorted-vowel-strings](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1641-count-sorted-vowel-strings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1641-count-sorted-vowel-strings](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1641-count-sorted-vowel-strings) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
 |  |
