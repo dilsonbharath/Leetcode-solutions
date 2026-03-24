@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1470-shuffle-the-array](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
