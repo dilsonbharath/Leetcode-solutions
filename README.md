@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1470-shuffle-the-array](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [1441-build-an-array-with-stack-operations](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2390-removing-stars-from-a-string](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [1441-build-an-array-with-stack-operations](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
