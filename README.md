@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1929-concatenation-of-array](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1944-truncate-sentence](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1944-truncate-sentence) |
 | [1980-find-unique-binary-string](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [1929-concatenation-of-array](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
