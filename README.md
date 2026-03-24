@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0645-set-mismatch](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1009-complement-of-base-10-integer](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/dilsonbharath/Leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Greedy
